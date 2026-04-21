@@ -2,6 +2,7 @@
 
 $name = "nirwana";
 $age = 21;
+tes aja nih
 
 // nama saya nirwana, umur saya sekarang adalah 21 tahun
 
