@@ -13,7 +13,7 @@ class Army{
     }
 
     public function __destruct(){
-        echo "Army Class is destroyed \n";
+        echo "Army Class destroyed \n";
     }
 }
 
