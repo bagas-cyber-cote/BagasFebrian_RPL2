@@ -19,6 +19,6 @@ class Army{
 
 $Army1 = new Army();
 $Army1->tittles = "commander lewndir hytam";
-$Army1->rolei = "Panglima Jewmbud";
+$Army1->role = "Panglima Jewmbud";
 $Army1->address = "Bumi";
 $Army1->sayHello("Ambatronuss");
