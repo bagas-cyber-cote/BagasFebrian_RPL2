@@ -7,5 +7,5 @@ class Anomali{
         $this->nama = $nama;
     }
 
-    public function skill()
+    public function skiill()
 }
